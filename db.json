@@ -1,0 +1,91 @@
+{
+  "products": [
+    {
+      "img1": "https://images.pexels.com/photos/1266810/pexels-photo-1266810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "img2": "https://images.pexels.com/photos/1583582/pexels-photo-1583582.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "img3": "https://images.pexels.com/photos/214574/pexels-photo-214574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "productname": "ngrjknrgjr",
+      "price": 50,
+      "quantity": 0,
+      "id": 1
+    },
+    {
+      "img1": "https://images.pexels.com/photos/1266810/pexels-photo-1266810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "img2": "https://images.pexels.com/photos/1583582/pexels-photo-1583582.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "img3": "https://images.pexels.com/photos/214574/pexels-photo-214574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "productname": "vas",
+      "price": "50999",
+      "quantity": 29,
+      "id": 3
+    },
+    {
+      "img1": "https://images.pexels.com/photos/214574/pexels-photo-214574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "img2": "https://images.pexels.com/photos/214574/pexels-photo-214574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "img3": "https://images.pexels.com/photos/214574/pexels-photo-214574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "productname": "dddd",
+      "price": "12",
+      "quantity": "33",
+      "id": 4
+    },
+    {
+      "img1": "https://images.pexels.com/photos/214574/pexels-photo-214574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "img2": "https://images.pexels.com/photos/214574/pexels-photo-214574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "img3": "https://images.pexels.com/photos/214574/pexels-photo-214574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "productname": "12",
+      "price": "3",
+      "quantity": "5",
+      "id": 5
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "firstname": "admin",
+      "lastname": "admin",
+      "email": "admin@yahoo.com",
+      "password": "ADmin@123"
+    },
+    {
+      "firstname": "reem",
+      "lastname": "yasser",
+      "email": "reem123@gmail.com",
+      "password": "REas@321",
+      "id": 2
+    },
+    {
+      "firstname": "Nada",
+      "lastname": "Ahmed",
+      "email": "nadaggamal123@gmail.com",
+      "password": "NAda@123",
+      "id": 3
+    },
+    {
+      "firstname": "maryem",
+      "lastname": "safwat",
+      "email": "maryam@gamil.com",
+      "password": "MAma@321",
+      "id": 4
+    },
+    {
+      "firstname": "Nada",
+      "lastname": "Ahmed",
+      "email": "nadaggamal123@gmail.com",
+      "password": "DAas123@",
+      "id": 5
+    },
+    {
+      "firstname": "fafafa",
+      "lastname": "ggaggs",
+      "email": "ree23@gmail.com",
+      "password": "REas@32d",
+      "id": 6
+    },
+    {
+      "firstname": "reem ",
+      "lastname": "yasserr ",
+      "email": "reem123@gmail.com",
+      "password": "REas@321",
+      "id": 7
+    }
+  ]
+}
